@@ -24,8 +24,8 @@
 
 | N° | Projects |
 | ------- | -------- |
-| 01 | <a href="https://github.com/nyxtais/Python/tree/236e8febf9e4c2533a9558f037b5e62494d436b8/pystudy/encryption">Encryption Program</a> |
-| 02 | <a href="">soon!</a> |
+| 01 | <a href="https://github.com/nyxtais/Python/tree/63da8d86a5dc0e0e1776739289b65083af2551b8/pystudy/encryption">Encryption Program</a> |
+| 02 | <a href="https://github.com/nyxtais/Python/tree/63da8d86a5dc0e0e1776739289b65083af2551b8/pystudy/snakegame">Snake Game</a> |
 | 03 | <a href="">soon!</a> |
 | 04 | <a href="">soon!</a> |
 | 05 | <a href="">soon!</a> |
